@@ -1,0 +1,21 @@
+.slider-section-bg{
+    background-color: #FEEAE9;
+}
+.categories img{
+    width: 100px;
+}
+.btn-slider-info{
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    
+}
+.btn-submit{
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    background-image: linear-gradient(to bottom, #58a0ff 0%, #136eff 100%);
+}
